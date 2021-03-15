@@ -4,4 +4,7 @@ class PagesController < ApplicationController
       message: "home"
     }
   end
+
+  def about
+  end
 end
